@@ -5,10 +5,9 @@ Permission is granted to any person obtaining a copy of this software to use,
 copy, modify, and distribute it, subject to the following conditions:
 
 1. ATTRIBUTION NOTICE (REQUIRED)
-   Any project using this software MUST include the following print statement,
-   executed at runtime during initialization, visible in the output log:
+   The following message must be present in the developer console within 10 seconds of the player joining a server.:
 
-       print("Running Illumination Framework by liquidpane")
+      Running Illumination Framework by liquidpane
 
    This notice must not be removed, suppressed, commented out, or obfuscated.
 
